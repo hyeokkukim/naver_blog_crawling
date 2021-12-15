@@ -16,7 +16,7 @@ ____
 
 2. 크롬 드라이버 다운로드: [링크](https://chromedriver.chromium.org/downloads) 접속 후 버전에 맞는 드라이버 다운로드. 버전은 완전히 일치하지 않아도 되며 앞자리만 일치하면 됨
 
-![스크린샷 2021-12-15 오후 2.06.13](/Users/ranking/Desktop/스크린샷 2021-12-15 오후 2.06.13.png)
+<img width="741" alt="스크린샷 2021-12-15 오후 2 06 13" src="https://user-images.githubusercontent.com/73429381/146127715-e8bba645-1ca7-4439-9320-b236424a4654.png">
 
 _____
 
