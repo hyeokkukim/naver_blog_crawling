@@ -12,7 +12,7 @@ ____
 
 1. 크롬 버전 확인: 크롬 -> 설정 -> Chrome 정보 -> 버전 '96.0.4664.110'
 
-   ![스크린샷 2021-12-15 오후 2.08.04](/Users/ranking/Library/Application Support/typora-user-images/스크린샷 2021-12-15 오후 2.08.04.png)
+<img width="658" alt="스크린샷 2021-12-15 오후 2 08 04" src="https://user-images.githubusercontent.com/73429381/146127818-850b08c4-4be4-4f92-894b-4f3a3aaee129.png">
 
 2. 크롬 드라이버 다운로드: [링크](https://chromedriver.chromium.org/downloads) 접속 후 버전에 맞는 드라이버 다운로드. 버전은 완전히 일치하지 않아도 되며 앞자리만 일치하면 됨
 
